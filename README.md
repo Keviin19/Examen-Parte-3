@@ -1,2 +1,4 @@
 # Examen-Parte-3
-Parte 3 del examen
+Parte 3 del examen, explicación:
+-
+-
