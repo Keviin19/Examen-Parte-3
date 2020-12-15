@@ -10,6 +10,7 @@ Parte 3 del examen, explicación:
   
 -Añadiremos otra division de clase para añadir la ultima imagen. La division se llamara "red-panda", añadiremos otro "img src" y en la parte de style bloquearemos el display y haremos que la imagen sea el maximo de grande que permita, lo pondremos al 100%.
 
+-Te he cambiado un poquito la pagina para que veas que no es copia y pega y cambia un poquito, ;)
 
 
 
